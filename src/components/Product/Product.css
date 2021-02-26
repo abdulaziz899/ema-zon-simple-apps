@@ -1,0 +1,25 @@
+.productContainer{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+    margin-right:2px;
+    padding-bottom: 5px;
+}
+.productImg{
+    width: 30%;
+    margin: 5px;
+}
+.productDetails{
+    width: 68%;
+    margin-right: 5px;
+}
+.addCartBtn{
+    background-color: blue;
+    color: aliceblue;
+    width: 200px;
+    font-size: 25px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}

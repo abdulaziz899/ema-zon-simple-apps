@@ -1,0 +1,21 @@
+.shopDetails{
+    display: flex;
+    justify-content: space-between;
+}
+.shopContainer{
+   width:70% ;
+   margin-left: 20px;
+   margin-right: 5px;
+}
+.cartContainer{
+    width: 30%;
+    height: 300px;
+    
+}
+.position{
+    width: 100%;
+    padding: 30px;
+    position: fixed;
+    background-color: palegoldenrod;
+    
+}
